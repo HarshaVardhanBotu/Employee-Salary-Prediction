@@ -92,9 +92,8 @@ A Gradio-based form allows users to enter demographic and employment-related inf
 
 Below is a screenshot of the deployed interface in action:
 
-![Output Screenshot](screenshot.png)
+![Output Screenshot](Output of emp_sal_ds.png)
 
-> ℹ️ Save your Gradio interface screenshot as screenshot.png and upload it to the GitHub repository root.
 
 ---
 
