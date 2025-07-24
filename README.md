@@ -99,8 +99,8 @@ Below is a screenshot of the deployed interface in action:
 
 ## 📌 Notes
 
-- A user may select logically inconsistent values (e.g., Gender = Female and Relationship = Husband), as no constraints were applied to prevent it in this version.
-- You may improve input validation and data filtering in future versions.
+- Ngrok token is required. Only one token setup per session.
+- Users who download this project must replace with their own Ngrok token to access the public link.
 
 ---
 
