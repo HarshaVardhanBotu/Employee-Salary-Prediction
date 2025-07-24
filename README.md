@@ -92,7 +92,7 @@ A Gradio-based form allows users to enter demographic and employment-related inf
 
 Below is a screenshot of the deployed interface in action:
 
-![Output Screenshot](Output of emp_sal_ds.png)
+![Output Screenshot](output_of_emp_sal_ds.png)
 
 
 ---
