@@ -7,7 +7,7 @@ Great! Here's a complete and well-structured README.md for your GitHub repositor
 
 ## 📁 Dataset
 
-The dataset used is a cleaned and modified version of the UCI Adult Income dataset. It includes features like:
+Dataset provided by mentor for academic use. May be based on or derived from the UCI Adult dataset, originally sourced from the U.S. Census Bureau (1994). It includes features like:
 
 * Age
 * Education Number
